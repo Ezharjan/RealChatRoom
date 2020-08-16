@@ -1,3 +1,2 @@
 *.bat
 server/node_modules/*
-server/package.json
